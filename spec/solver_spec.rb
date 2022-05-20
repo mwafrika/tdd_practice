@@ -1,4 +1,4 @@
-require_relative 'solver'
+require '../solver'
 
 describe 'should create a solver' do
   before :each do
@@ -25,5 +25,4 @@ describe 'should create a solver' do
       end
     end
   end
-
 end
