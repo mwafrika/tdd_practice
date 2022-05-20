@@ -18,7 +18,6 @@ describe 'should create a solver' do
     end
   end
 
-  
  describe 'should handle the fizzbuzz function' do
     context 'Should test the cases in the fizzbuzz function' do
       it 'should return a fizzbuzz if the number is divisible by 3 and 5' do
