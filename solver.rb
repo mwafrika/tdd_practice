@@ -9,14 +9,14 @@ class Solver
   def reverse(word)
     word.reverse.to_s
   end
-  
+
   def fizzbuzz(number)
     numb = number.to_i
-    if numb % 3 == 0 && numb % 5 == 0
+    if (numb % 3).zero? && (numb % 5).zero?
       'fizzbuzz'
-    elsif numb % 3 == 0
+    elsif (numb % 3).zero?
       'fizz'
-    elsif numb % 5 == 0
+    elsif (numb % 5).zero?
       'buzz'
     else
       numb

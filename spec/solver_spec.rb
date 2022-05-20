@@ -18,7 +18,7 @@ describe 'should create a solver' do
     end
   end
 
- describe 'should handle the fizzbuzz function' do
+  describe 'should handle the fizzbuzz function' do
     context 'Should test the cases in the fizzbuzz function' do
       it 'should return a fizzbuzz if the number is divisible by 3 and 5' do
         expect(@solver.fizzbuzz(15)).to eq 'fizzbuzz'
@@ -37,7 +37,7 @@ describe 'should create a solver' do
       end
     end
   end
-  
+
   describe 'should handle the reverse word function' do
     context 'Should test the cases in the reverse function' do
       it 'should return a reversed string' do
