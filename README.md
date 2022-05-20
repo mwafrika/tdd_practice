@@ -68,12 +68,12 @@ rspec spec ./spec/solver_spec.rb
 ```
 
 ## 👤 Author 
-Charles Gobina :student: 
+Dire Akanbi
 * Github:[Dire Akanbi](https://github.com/direakanbi) 
 * Twitter:[Dire Akanbi](https://twitter.com/DireAkanbi)
 * LinkedIn:[Dire Akanbi](https://www.linkedin.com/in/dire-akanbi)
 
-Edward Yara :student: 
+Mwafrika Mufunguzi
 - GitHub: [Mwafrika](https://github.com/mwafrika)
 - Twitter: [Mwafrika](https://twitter.com/mwafrikamufung1)
 - LinkedIn: [MWAFRIKA MUFUNGIZI](https://www.linkedin.com/in/mwafrika-mufunguzi/)
