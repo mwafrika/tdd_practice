@@ -11,4 +11,4 @@ class Solver
   end
 end
 
-
+print Solver.new.factorial(3)
